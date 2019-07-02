@@ -13,6 +13,7 @@
 .footer {
     background-color: burlywood;
     margin: 0px auto;
+    margin-top: 5px;
     padding: 20px 0px 20px 0px;
 }
 
@@ -36,4 +37,23 @@ body {
 
 .navbar-light {
     background-color: purple;
+}
+
+.reserve {
+    background-color: rgb(209, 160, 0);
+}
+
+.reservebtn {
+    background-color: rgb(209, 160, 0);
+    border-color:  rgb(209, 160, 0);
+    color: black;
+    padding: 10px 50px 10px 50px;
+    margin-top: 5px;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
